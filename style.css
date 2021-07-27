@@ -67,8 +67,16 @@ footer{
     background-image: url(images/shapes/footer-bg.jpg);
     text-align: center;
     height: 300px;
+    margin: 0;
 }
-
-.footer-text{
+footer{
+    color: white;
+}
+#orange-text{
+    color: orange;
+    text-decoration: none;
+}
+#gray-text{
     color: gray;
+    text-decoration: none;
 }
