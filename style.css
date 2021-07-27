@@ -27,7 +27,6 @@ h1{
 }
 .design-btn{
     background-image: linear-gradient(salmon,orange);
-    /* background-color: orange; */
     text-decoration: none;
     padding: 10px 20px;
     border-radius: 20px;
@@ -39,4 +38,12 @@ h1{
 .about-me{
     background-image: url(images/shapes/top-banner.png);
     background-repeat: no-repeat;
+    margin: 0;
+}
+#my-recipies{
+    text-align: center;
+}
+.box-shadow{
+    box-shadow: grey 10px 10px 5px;
+    border-radius: 10px;
 }
