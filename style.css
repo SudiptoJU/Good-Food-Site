@@ -17,6 +17,7 @@ h1{
 .flex-container{
     display: flex;
     align-items: center;
+    margin-bottom: 20px;
 }
 .half-width{
     width: 50%;
@@ -43,7 +44,31 @@ h1{
 #my-recipies{
     text-align: center;
 }
+
+.my-recipies h2{
+    color: black;
+}
 .box-shadow{
-    box-shadow: grey 10px 10px 5px;
+    box-shadow: grey 5px 5px 10px;
     border-radius: 10px;
+}
+.digital-counter{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-weight: 500;
+}
+
+.digital-count-size{
+    width: 300px;
+    height: auto;
+}
+footer{
+    background-image: url(images/shapes/footer-bg.jpg);
+    text-align: center;
+    height: 300px;
+}
+
+.footer-text{
+    color: gray;
 }
