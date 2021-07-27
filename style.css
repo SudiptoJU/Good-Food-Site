@@ -57,6 +57,7 @@ h1{
     justify-content: center;
     color: black;
     font-weight: 500;
+    box-shadow: grey 5px 5px 10px;
 }
 
 .digital-count-size{
