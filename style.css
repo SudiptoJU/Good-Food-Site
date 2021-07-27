@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+#welcome-text{
+    font-size: 40px;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+}
+.color-text{
+    color: orange;
+}
+
+.flex-container{
+    display: flex;
+    align-items: center;
+}
+.half-width{
+    width: 50%;
+    padding-left: 15%;
+}
+.half-width img{
+    width: 60%;
+}
+.design-btn{
+    background-image: linear-gradient(salmon,orange);
+    /* background-color: orange; */
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+
+.about-me{
+    background-image: url(images/shapes/top-banner.png);
+    background-repeat: no-repeat;
+}
